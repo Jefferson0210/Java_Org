@@ -1,0 +1,11 @@
+com\mycompany\movilbackend\dao\EmailRepository.class
+com\mycompany\movilbackend\dao\PhoneRepository.class
+com\mycompany\movilbackend\dao\PersonRepository.class
+com\mycompany\movilbackend\model\Dirrecion.class
+com\mycompany\movilbackend\dao\DirrecionRepository.class
+com\mycompany\movilbackend\enums\EstadoCivil.class
+com\mycompany\movilbackend\enums\Sexo.class
+com\mycompany\movilbackend\movilbackend.class
+com\mycompany\movilbackend\model\Email.class
+com\mycompany\movilbackend\model\Person.class
+com\mycompany\movilbackend\model\Phone.class
